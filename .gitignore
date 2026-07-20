@@ -1,0 +1,27 @@
+# executable
+HelloWorld
+
+# object
+*.o
+
+# library
+*.a
+*.so
+
+# CMake
+build/
+
+# VSCode
+.vscode/
+
+# Backup
+*~
+
+# log
+*.log
+
+build/
+
+install/
+
+log/
