@@ -6,5 +6,8 @@ int main(void)
     printf("maji_no_suke!\n");
     printf("ohhhhhhhhh!\n");
     printf("Git Brach Study\n");
+    printf("Git diff Study\n");
+    printf("Restore Study\n");
+    printf("README Study\n");
     return 0;
 }
